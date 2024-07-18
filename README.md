@@ -2,4 +2,4 @@
 
 ## Pálinka eladás weboldal
 
-Egy weboldal a pálinka eladásról.Egy kis admin felölettel(ami csak be és kijelentkezésre szolgál).
+Ez egy codeigniteres weboldal pálinka eladásról.Egy kis admin felülettel(ami csak be és kijelentkezésre szolgál).
