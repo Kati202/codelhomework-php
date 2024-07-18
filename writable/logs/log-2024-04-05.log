@@ -1,0 +1,128 @@
+CRITICAL - 2024-04-05 14:47:05 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 14:47:29 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 14:48:39 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 14:48:52 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 14:59:11 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:03:45 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:05:15 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:05:16 --> CodeIgniter\View\Exceptions\ViewException: Invalid file: "templates/table.php"
+in SYSTEMPATH\Exceptions\FrameworkException.php on line 39.
+ 1 SYSTEMPATH\View\View.php(216): CodeIgniter\Exceptions\FrameworkException::forInvalidFile()
+ 2 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 3 APPPATH\Views\ProductsView.php(13): view()
+ 4 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:07:46 --> ErrorException: Undefined variable: tasks
+in APPPATH\Views\template\table.php on line 14.
+ 1 APPPATH\Views\template\table.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Program Files\\Ampps\\www\\codelhomework-php\\app\\Views\\template\\table.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH\Views\ProductsView.php(13): view()
+ 6 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:11:02 --> ErrorException: Undefined variable: tasks
+in APPPATH\Views\template\table.php on line 14.
+ 1 APPPATH\Views\template\table.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Program Files\\Ampps\\www\\codelhomework-php\\app\\Views\\template\\table.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH\Views\ProductsView.php(13): view()
+ 6 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:29:10 --> ErrorException: Undefined variable: products
+in APPPATH\Views\template\table.php on line 14.
+ 1 APPPATH\Views\template\table.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Program Files\\Ampps\\www\\codelhomework-php\\app\\Views\\template\\table.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH\Views\ProductsView.php(13): view()
+ 6 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-05 15:33:03 --> ErrorException: Undefined variable: products
+in APPPATH\Views\template\table.php on line 14.
+ 1 APPPATH\Views\template\table.php(14): CodeIgniter\Debug\Exceptions->errorHandler()
+ 2 SYSTEMPATH\View\View.php(228): include('C:\\Program Files\\Ampps\\www\\codelhomework-php\\app\\Views\\template\\table.php')
+ 3 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 4 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 5 APPPATH\Views\ProductsView.php(13): view()
+ 6 APPPATH\Controllers\Products.php(18): App\Views\ProductsView::Table()
+ 7 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 8 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 9 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+10 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()

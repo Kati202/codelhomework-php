@@ -1,0 +1,61 @@
+CRITICAL - 2024-04-20 13:41:58 --> ParseError: syntax error, unexpected end of file, expecting function (T_FUNCTION) or const (T_CONST)
+in APPPATH\Views\ServiceView.php on line 44.
+ 1 SYSTEMPATH\Autoloader\Autoloader.php(290): CodeIgniter\Autoloader\Autoloader->includeFile()
+ 2 SYSTEMPATH\Autoloader\Autoloader.php(266): CodeIgniter\Autoloader\Autoloader->loadInNamespace()
+ 3 [internal function]: CodeIgniter\Autoloader\Autoloader->loadClass()
+ 4 APPPATH\Controllers\Service.php(27): spl_autoload_call()
+ 5 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Service->service()
+ 6 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 7 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 8 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 14:17:50 --> TypeError: Argument 3 passed to form_checkbox() must be of the type bool, array given, called in C:\Program Files\Ampps\www\codelhomework-php\app\Views\IndexView.php on line 44
+in SYSTEMPATH\Helpers\form_helper.php on line 348.
+ 1 APPPATH\Views\IndexView.php(44): form_checkbox()
+ 2 APPPATH\Views\ServiceView.php(34): App\Views\IndexView::FormCheckbox()
+ 3 APPPATH\Controllers\Service.php(27): App\Views\ServiceView::CreationForm()
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Service->service()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 14:18:02 --> TypeError: Argument 2 passed to form_checkbox() must be of the type string, array given, called in C:\Program Files\Ampps\www\codelhomework-php\app\Views\IndexView.php on line 44
+in SYSTEMPATH\Helpers\form_helper.php on line 348.
+ 1 APPPATH\Views\IndexView.php(44): form_checkbox()
+ 2 APPPATH\Views\ServiceView.php(34): App\Views\IndexView::FormCheckbox()
+ 3 APPPATH\Controllers\Service.php(27): App\Views\ServiceView::CreationForm()
+ 4 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Service->service()
+ 5 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 6 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 7 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 15:41:09 --> Error: Class 'Service' not found
+in APPPATH\Views\template\table.php on line 20.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 4 APPPATH\Views\ProductsView.php(14): view()
+ 5 APPPATH\Controllers\Products.php(19): App\Views\ProductsView::Table()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 15:42:05 --> Error: Class 'Service' not found
+in APPPATH\Views\template\table.php on line 20.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 4 APPPATH\Views\ProductsView.php(14): view()
+ 5 APPPATH\Controllers\Products.php(19): App\Views\ProductsView::Table()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
+CRITICAL - 2024-04-20 15:44:47 --> Error: Class 'Service' not found
+in APPPATH\Views\template\table.php on line 22.
+ 1 SYSTEMPATH\View\View.php(228): include()
+ 2 SYSTEMPATH\View\View.php(231): CodeIgniter\View\View->CodeIgniter\View\{closure}()
+ 3 SYSTEMPATH\Common.php(1178): CodeIgniter\View\View->render()
+ 4 APPPATH\Views\ProductsView.php(14): view()
+ 5 APPPATH\Controllers\Products.php(19): App\Views\ProductsView::Table()
+ 6 SYSTEMPATH\CodeIgniter.php(941): App\Controllers\Products->products()
+ 7 SYSTEMPATH\CodeIgniter.php(502): CodeIgniter\CodeIgniter->runController()
+ 8 SYSTEMPATH\CodeIgniter.php(361): CodeIgniter\CodeIgniter->handleRequest()
+ 9 FCPATH\index.php(79): CodeIgniter\CodeIgniter->run()
